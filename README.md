@@ -1,1 +1,1 @@
-# Arabic-Quran
+Arabic Qur'an
